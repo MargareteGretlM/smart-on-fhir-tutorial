@@ -1,3 +1,5 @@
+sanbox client id
+88b330e2-8f99-4988-aa5d-8155232519e2
 # 1. Overview
 
 This tutorial will introduce you to launching a SMART on FHIR app from a the logica Sandbox.
