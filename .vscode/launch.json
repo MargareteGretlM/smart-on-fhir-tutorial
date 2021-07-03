@@ -9,8 +9,8 @@
             "request": "launch",
             "name": "Open launch.html",
            // "file": "c:\\git\\smart-on-fhir-tutorial\\example-smart-app\\launch.html",
-
             "url": "https://margaretegretlm.github.io/smart-on-fhir-tutorial/example-smart-app/launch.html?iss=https://api.logicahealth.org/GretlsTestSandbox/data&launch=D108Y",
+            //"url": "http://127.0.0.1:5500/example-smart-app/launch.html?iss=https://api.logicahealth.org/GretlsTestSandbox/data&launch=D108Y",
             "webRoot": "${workspaceFolder}",
             "sourceMapPathOverrides": {
                 "../*": "${workspaceFolder}/*"
